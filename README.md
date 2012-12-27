@@ -3,6 +3,13 @@ dailyreport
 
 每天成果纲要报告
 
+** [ TO DOs ]**
+
+* 灌篮高手人物
+* 。。。
+
+
+
 **[ 20121227 ]**
 
 * [09:00 - 11:00] 学习了github将fork源始终保持更新和pull request的方法，记了笔记于blog
