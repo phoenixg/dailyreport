@@ -6,7 +6,9 @@ dailyreport
 ** [ TO DOs ]**
 
 * 灌篮高手人物
-* 。。。
+* raspberry pi 路由器等
+* raspberry pi nginx
+* 设计characterarchive
 
 
 
