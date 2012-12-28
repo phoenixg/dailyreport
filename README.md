@@ -9,14 +9,18 @@ dailyreport
 * raspberry pi 路由器等
 * raspberry pi nginx
 * 设计characterarchive
+* phphttpful学习
+* seekfortruelove倒计时
+* seekfortruelove 激活邮箱的修正！
+* raspberry pi 是否要再买一个wifi usb， 公司网络连接测试
 
 **[ 20121228 ]**
 
 * [09:00 - 10:00] 看社会、技术新闻，计划一天的工作学习内容
 * [10:00 - 13:00] 测试abbey折扣字段最大不换行长度，全角、半角、英文、数字、汉字
 * [13:00 - 13:30] 帮岩田弄IE下公司日本网站PDF无法下载的问题
-
-
+* [13:30 - 16:00] 测试abbey折扣字段的项目添加，还有一些技术支持工作
+* []
 
 **[ 20121227 ]**
 
@@ -29,7 +33,8 @@ dailyreport
 * [15:40 - 17:40] 折腾了下来电如何播放录音
 * [15:40 - 17:40] 研究abbey的折扣字段最大支持字符数（11个汉字）
 * [15:40 - 17:40] 折腾了下Raspberry Pi的wifi USB网卡，但没法弄，也许型号不对
-* [19:00 - 22:00] 研究命令行配置Raspberry Pi USB wifi，但失败
+* [19:00 - 20:00] 被胡军放了鸽子，说有事不能见面
+* [20:00 - 22:00] 研究命令行配置Raspberry Pi USB wifi，但失败
 
 **[ 20121226 ]**
 
