@@ -10,7 +10,7 @@ dailyreport
 * raspberry pi nginx
 * 设计characterarchive
 * phphttpful学习
-* seekfortruelove倒计时
+* seekfortruelove 倒计时
 * seekfortruelove 激活邮箱的修正！
 * raspberry pi 是否要再买一个wifi usb， 公司网络连接测试
 
@@ -20,7 +20,7 @@ dailyreport
 * [10:00 - 13:00] 测试abbey折扣字段最大不换行长度，全角、半角、英文、数字、汉字
 * [13:00 - 13:30] 帮岩田弄IE下公司日本网站PDF无法下载的问题
 * [13:30 - 16:00] 测试abbey折扣字段的项目添加，还有一些技术支持工作
-* []
+* [16:00 - 18:00] Raspberry Pi公司网络连接测试，扫描到了IP但是PuTTY连接错误
 
 **[ 20121227 ]**
 
