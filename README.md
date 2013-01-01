@@ -11,8 +11,13 @@ dailyreport
 * 设计characterarchive
 * phphttpful学习
 * seekfortruelove 倒计时
-* seekfortruelove 激活邮箱的修正！
 * raspberry pi 是否要再买一个wifi usb， 公司网络连接测试
+
+**[ 20130101 二 ]**
+
+**[ 20121231 一 ]**
+
+**[ 20121230 日 ]**
 
 **[ 20121229 ]**
 
