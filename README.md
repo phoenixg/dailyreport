@@ -5,6 +5,10 @@ dailyreport
 
 **[ TO DOs ]**
 
+
+* 10号周四 晚7:30 西宫KFC 采集500元 签合同
+* 要学如何apache设置子域名和主域名多个项目共存，允许ip访问
+
 * 灌篮高手人物
 * raspberry pi 路由器等
 * raspberry pi nginx
@@ -12,6 +16,12 @@ dailyreport
 * phphttpful学习
 * seekfortruelove 倒计时
 * raspberry pi 是否要再买一个wifi usb， 公司网络连接测试
+
+**[ 20130104 五 ]**
+去了K11布线
+
+**[ 20130102 三 ]**
+放假后上班
 
 **[ 20130101 二 ]**
 
